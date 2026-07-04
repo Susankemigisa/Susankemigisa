@@ -6,18 +6,31 @@
 
 </div>
 
-## 👋 About Me
+## 👩🏾‍💻 About Me
 
-I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build global solutions end-to-end, from database schema to polished UI, with AI woven in where it actually adds value.
+```typescript
+const suzan = {
+  role: "Software & AI Engineer",
+  location: "Kampala, Uganda 🇺🇬 → building for the world 🌍",
+  currentFocus: "AI Agents, RAG systems & full-stack products",
+  funFact: "I've shipped products people use over USSD — no internet required",
+};
+```
 
-- 🚀 Solo founder of **FinAdvisor AI** — an AI-powered financial advisor for African markets
-- 🤖 I build **AI Agents, RAG pipelines & NLP systems** — LangGraph orchestration, multi-LLM integrations, and agentic workflows
-- 🧠 **Machine Learning & Deep Learning** — trained neural networks with PyTorch (97%+ accuracy on classification tasks)
-- 📊 **Data analysis** — turning raw data into decisions with Python, Pandas & visualization
-- 📋 Certified in **Product Management** — I ship with user needs and business goals in mind, not just code
-- 🌍 Passionate about inclusive tech: multilingual products, mobile payments, offline-first design
-- 🏆 Hackathon builder — led an 8-person team building **MamaCare**, an AI maternal health assistant over USSD/SMS/Voice
-- 📫 Reach me: **kemigisa32@gmail.com**
+I build **global solutions end-to-end** — from database schema to polished UI — with AI woven in where it actually adds value, not where it just adds buzzwords.
+
+⚡ **What I'm about:**
+
+- 🚀 &nbsp;Solo founder of **FinAdvisor AI** — an AI-powered financial advisor for African markets
+- 🤖 &nbsp;I architect **AI Agents, RAG pipelines & NLP systems** — LangGraph orchestration, multi-LLM integrations, agentic workflows
+- 🧠 &nbsp;**ML & Deep Learning** — trained neural networks with PyTorch to 97%+ accuracy on classification tasks
+- 📊 &nbsp;**Data analysis** — turning raw data into decisions with Python, Pandas & visualization
+- 🎯 &nbsp;Certified in **Product Management** — I ship for user needs and business goals, not just clean code
+- 🏆 &nbsp;Led an **8-person hackathon team** building MamaCare — AI maternal health assistance over USSD/SMS/Voice
+- 🌐 &nbsp;Inclusive tech advocate: multilingual products, mobile payments, offline-first design
+
+💬 **Let's talk about** AI agents, TypeScript, or shipping products under real-world constraints
+📫 **Reach me:** [kemigisa32@gmail.com](mailto:kemigisa32@gmail.com)
 
 ## 🛠️ Tech Stack
 
