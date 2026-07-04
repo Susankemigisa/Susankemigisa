@@ -45,6 +45,14 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build f
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+**Tools I Work With**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,express,react,remix,nextjs,flutter,dart,postgres,prisma,supabase,docker,azure,gcp,vercel,git,github,vscode,figma,tailwind&perline=11" />
+
+</div>
+
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
@@ -64,15 +72,22 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build f
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susankemigisa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&text_color=FFFCFC" height="140" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susankemigisa&theme=nord_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Susankemigisa&theme=nord_dark" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Susankemigisa&theme=nord_dark" height="150" />
+
 </div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/suzan-kemigisa/))
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/https://x.com/kemigisa_susan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-632148?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://suzan-kemigisa-portfolio-owm7co5ro-kemigisa32-3838s-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suzan-kemigisa/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kemigisa_susan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-632148?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suzan-kemigisa-portfolio-owm7co5ro-kemigisa32-3838s-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-B18FA2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kemigisa32@gmail.com)
 
 </div>
