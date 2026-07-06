@@ -1,23 +1,8 @@
-<div align="center">
+# 👩🏾‍💻 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:033E5B,50:632148,100:B18FA2&height=200&section=header&text=Suzan%20Kemigisa&fontSize=50&fontColor=FFFCFC&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20AI%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+**Hey! I'm Suzan Kemigisa** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="28" /> — a **Software & AI Engineer** and **Solo Founder @ FinAdvisor AI**, based in Kampala, Uganda 🇺🇬 and building for the world <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="24" />.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B18FA2&center=true&vCenter=true&width=600&lines=Full-Stack+TypeScript+Engineer;AI+Agents+%2B+RAG+Systems+Builder;ML+%2B+NLP+%2B+Deep+Learning;Building+Tech+for+Global+Impact;Solo+Founder+%40+FinAdvisor+AI)](https://github.com/Suzankemigisa)
-
-</div>
-
-## 👩🏾‍💻 About Me
-
-```typescript
-const suzan = {
-  role: "Software & AI Engineer",
-  location: "Kampala, Uganda 🇺🇬 → building for the world 🌍",
-  currentFocus: "AI Agents, RAG systems & full-stack products",
-  funFact: "I've shipped products people use over USSD — no internet required",
-};
-```
-
-I build **global solutions end-to-end** — from database schema to polished UI — with AI woven in where it actually adds value, not where it just adds buzzwords.
+I'm a full-stack engineer shipping AI products end-to-end — including ones that run over USSD, no internet required. I build **global solutions** from database schema to polished UI, with AI woven in where it actually adds value, not where it just adds buzzwords.
 
 ⚡ **What I'm about:**
 
@@ -179,7 +164,5 @@ I build **global solutions end-to-end** — from database schema to polished UI 
 <div align="center">
 
 💡 *"Building software that works where it's needed most."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B18FA2,50:632148,100:033E5B&height=100&section=footer" width="100%"/>
 
 </div>
