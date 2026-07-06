@@ -125,7 +125,7 @@ I'm a full-stack engineer shipping AI products end-to-end — including ones tha
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Suzankemigisa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&icon_color=632148&text_color=FFFCFC" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suzankemigisa&theme=midnight-purple&hide_border=true&background=040B14&ring=B18FA2&fire=632148&currStreakLabel=FFFCFC" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Suzankemigisa&theme=midnight-purple&hide_border=true&background=040B14&ring=B18FA2&fire=632148&currStreakLabel=FFFCFC" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzankemigisa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&text_color=FFFCFC" height="140" />
 
